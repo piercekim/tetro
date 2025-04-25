@@ -23,7 +23,7 @@ public class PlayManager {
     top_y = 50;
     bottom_y = top_y + HEIGHT;
     }
-
+//hi
     public void update(){
         
 
@@ -43,3 +43,5 @@ public class PlayManager {
     }
 
 }
+
+//tell me why
